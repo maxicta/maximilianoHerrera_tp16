@@ -1,10 +1,12 @@
-[{"Marca":"Shifter","Modelo":"FM18SI29AM211","Rodado":16,"Año":2021,"Color":"amarillo","Kilogramos":14,"Tipo":"Retro","Precio":83306.84,"Vendida":false},
-{"Marca":"Fierce","Modelo":"FM18SI29AM211","Rodado":16,"Año":2019,"Color":"verde","Kilogramos":24,"Tipo":"Triatlón","Precio":116838.11,"Vendida":false},
-{"Marca":"Shifter","Modelo":"Sunshine","Rodado":29,"Año":2022,"Color":"rojo","Kilogramos":13,"Tipo":"Triatlón","Precio":145487.3,"Vendida":false},
-{"Marca":"Fixie","Modelo":"Techno","Rodado":26,"Año":2022,"Color":"rosa","Kilogramos":24,"Tipo":"Triatlón","Precio":96592.24,"Vendida":true},
-{"Marca":"Battle","Modelo":"Regal","Rodado":29,"Año":2023,"Color":"Celeste","Kilogramos":16,"Tipo":"Paseo","Precio":148879.24,"Vendida":true},
-{"Marca":"Battle","Modelo":"FM18F29AM210","Rodado":28,"Año":2021,"Color":"verde","Kilogramos":23,"Tipo":"Paseo","Precio":90439.47,"Vendida":false},
-{"Marca":"Battle","Modelo":"Regal","Rodado":29,"Año":2022,"Color":"rojo","Kilogramos":22,"Tipo":"Triatlón","Precio":141508.8,"Vendida":false},
-{"Marca":"SLP","Modelo":"FM18F29AM210","Rodado":26,"Año":2021,"Color":"amarillo","Kilogramos":13,"Tipo":"Retro","Precio":139160.19,"Vendida":false},
-{"Marca":"Battle","Modelo":"Sunshine","Rodado":26,"Año":2022,"Color":"Celeste","Kilogramos":20,"Tipo":"Paseo","Precio":137445.92,"Vendida":true},
-{"Marca":"TopMega","Modelo":"Sunshine","Rodado":29,"Año":2019,"Color":"rosa","Kilogramos":16,"Tipo":"Paseo","Precio":90504.51,"Vendida":false}]
+[
+    {"id": 1, "Marca": "Shifter", "Modelo": "FM18SI29AM211", "Rodado": 16, "Año": 2021, "Color": "amarillo", "Kilogramos": 14, "Tipo": "Retro", "Precio": 83306.84, "Vendida": false},
+    {"id": 2, "Marca": "Fierce", "Modelo": "FM18SI29AM211", "Rodado": 16, "Año": 2019, "Color": "verde", "Kilogramos": 24, "Tipo": "Triatlón", "Precio": 116838.11, "Vendida": false},
+    {"id": 3, "Marca": "Shifter", "Modelo": "Sunshine", "Rodado": 29, "Año": 2022, "Color": "rojo", "Kilogramos": 13, "Tipo": "Triatlón", "Precio": 145487.3, "Vendida": false},
+    {"id": 4, "Marca": "Fixie", "Modelo": "Techno", "Rodado": 26, "Año": 2022, "Color": "rosa", "Kilogramos": 24, "Tipo": "Triatlón", "Precio": 96592.24, "Vendida": true},
+    {"id": 5, "Marca": "Battle", "Modelo": "Regal", "Rodado": 29, "Año": 2023, "Color": "Celeste", "Kilogramos": 16, "Tipo": "Paseo", "Precio": 148879.24, "Vendida": true},
+    {"id": 6, "Marca": "Battle", "Modelo": "FM18F29AM210", "Rodado": 28, "Año": 2021, "Color": "verde", "Kilogramos": 23, "Tipo": "Paseo", "Precio": 90439.47, "Vendida": false},
+    {"id": 7, "Marca": "Battle", "Modelo": "Regal", "Rodado": 29, "Año": 2022, "Color": "rojo", "Kilogramos": 22, "Tipo": "Triatlón", "Precio": 141508.8, "Vendida": false},
+    {"id": 8, "Marca": "SLP", "Modelo": "FM18F29AM210", "Rodado": 26, "Año": 2021, "Color": "amarillo", "Kilogramos": 13, "Tipo": "Retro", "Precio": 139160.19, "Vendida": false},
+    {"id": 9, "Marca": "Battle", "Modelo": "Sunshine", "Rodado": 26, "Año": 2022, "Color": "Celeste", "Kilogramos": 20, "Tipo": "Paseo", "Precio": 137445.92, "Vendida": true},
+    {"id": 10, "Marca": "TopMega", "Modelo": "Sunshine", "Rodado": 29, "Año": 2019, "Color": "rosa", "Kilogramos": 16, "Tipo": "Paseo", "Precio": 90504.51, "Vendida": false}
+]  
